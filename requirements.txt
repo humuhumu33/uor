@@ -1,0 +1,35 @@
+# UOR Evolution - Unified API Requirements
+# Essential dependencies for the consciousness and AI evolution system
+
+# Web Framework
+flask>=2.3.0
+
+# Scientific Computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Mathematical Computing
+sympy>=1.12
+
+# Graph and Network Analysis
+networkx>=3.1
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Development and Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Data Structures and Utilities
+dataclasses-json>=0.6.0
+
+# Logging
+colorlog>=6.7.0
+
+# Async Programming Support
+asyncio-mqtt>=0.13.0
+
+# For enhanced testing
+unittest-xml-reporting>=3.2.0

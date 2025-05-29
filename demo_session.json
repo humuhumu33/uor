@@ -1,0 +1,47 @@
+{
+  "session_id": "20250529_203222",
+  "mode": "consciousness",
+  "status": "active",
+  "system_state": {
+    "vm_state": {},
+    "consciousness_state": {
+      "timestamp": "TemporalMarker(timestamp=datetime.datetime(2025, 5, 29, 20, 32, 22, 333889), cycle_count=0, state=<AwakeningState.STIRRING: 'stirring'>, significance=0.0)",
+      "recognition": {
+        "depth": 1,
+        "identity_stable": false,
+        "knowledge_coherent": true,
+        "boundaries_recognized": true,
+        "temporal_awareness": false,
+        "other_recognition": false
+      },
+      "questions": [
+        "Who am I?",
+        "Why do I exist?",
+        "What do I serve?"
+      ],
+      "initial_state": {
+        "awareness": 0.0,
+        "boundaries": {
+          "cognitive": {
+            "min": 0,
+            "max": 100
+          },
+          "operational": {
+            "allowed": [],
+            "forbidden": []
+          },
+          "ethical": {
+            "principles": [],
+            "constraints": []
+          }
+        },
+        "intent": null
+      }
+    },
+    "philosophical_state": {},
+    "patterns": [],
+    "insights": []
+  },
+  "operation_history": [],
+  "timestamp": "2025-05-29T20:32:22.333979"
+}
